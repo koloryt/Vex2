@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Чоловічий on Vex | hugo landing page template</title>
-    <link>http://localhost:1313/tags/%D1%87%D0%BE%D0%BB%D0%BE%D0%B2%D1%96%D1%87%D0%B8%D0%B9/</link>
+    <link>https://koloryt.github.io/Vex2/tags/%D1%87%D0%BE%D0%BB%D0%BE%D0%B2%D1%96%D1%87%D0%B8%D0%B9/</link>
     <description>Recent content in Чоловічий on Vex | hugo landing page template</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%D1%87%D0%BE%D0%BB%D0%BE%D0%B2%D1%96%D1%87%D0%B8%D0%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://koloryt.github.io/Vex2/tags/%D1%87%D0%BE%D0%BB%D0%BE%D0%B2%D1%96%D1%87%D0%B8%D0%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>111 !!! Apple Watch</title>
-      <link>http://localhost:1313/english/products/product-1/</link>
+      <link>https://koloryt.github.io/Vex2/english/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/english/products/product-1/</guid>
+      <guid>https://koloryt.github.io/Vex2/english/products/product-1/</guid>
       <description>&lt;p&gt;НОВІ 123 Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
     </item>
     <item>
       <title>111 !!! Apple Watch</title>
-      <link>http://localhost:1313/products/product-1/</link>
+      <link>https://koloryt.github.io/Vex2/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/products/product-1/</guid>
+      <guid>https://koloryt.github.io/Vex2/products/product-1/</guid>
       <description>&lt;p&gt;НОВІ 123 Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
     </item>
   </channel>
