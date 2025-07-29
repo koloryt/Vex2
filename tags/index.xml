@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Vex | hugo landing page template</title>
+    <link>https://koloryt.github.io/Vex2/tags/</link>
+    <description>Recent content in Tags on Vex | hugo landing page template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    <atom:link href="https://koloryt.github.io/Vex2/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For MAN</title>
+      <link>https://koloryt.github.io/Vex2/tags/for-man/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>https://koloryt.github.io/Vex2/tags/for-man/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HIT</title>
+      <link>https://koloryt.github.io/Vex2/tags/hit/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>https://koloryt.github.io/Vex2/tags/hit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NEW</title>
+      <link>https://koloryt.github.io/Vex2/tags/new/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>https://koloryt.github.io/Vex2/tags/new/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
