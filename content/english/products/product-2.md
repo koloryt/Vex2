@@ -4,9 +4,9 @@ categories:
   - "categ2"
 
 tags:
-  - "HIT rt56756756   123 "
+  - "HIT"
 
-title: "Galaxy Watch MODERN 123 !!  56756756756756"
+title: "Galaxy Watch MODERN 123"
 
 date: 2019-10-17T11:22:16+06:00
 images: 
@@ -17,9 +17,7 @@ images:
   
 type: "products" 
 
-
-# meta description 6786786767678 fggghfghfghfghfghgh
-
+# meta description
 
 description : "this is meta description"
 
