@@ -27,14 +27,14 @@
       <link>http://localhost:1313/english/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/english/products/product-1/</guid>
-      <description>&lt;p&gt;Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
+      <description>&lt;p&gt;НОВІ 123 Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
     </item>
     <item>
       <title>111 !!! Apple Watch</title>
       <link>http://localhost:1313/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/products/product-1/</guid>
-      <description>&lt;p&gt;Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
+      <description>&lt;p&gt;НОВІ 123 Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2222 Xiaomi Watch</title>
@@ -66,20 +66,20 @@
     </item>
     <item>
       <title>Galaxy Watch</title>
-      <link>http://localhost:1313/english/products/product-2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/english/products/product-2/</guid>
-      <description>&lt;p&gt;Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Galaxy Watch</title>
       <link>http://localhost:1313/french/products/product-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/french/products/product-2/</guid>
       <description>&lt;p&gt;Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Galaxy Watch</title>
+      <title>Galaxy Watch MODERN</title>
+      <link>http://localhost:1313/english/products/product-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>http://localhost:1313/english/products/product-2/</guid>
+      <description>&lt;p&gt;Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Galaxy Watch MODERN</title>
       <link>http://localhost:1313/products/product-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       <guid>http://localhost:1313/products/product-2/</guid>

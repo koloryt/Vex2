@@ -70,10 +70,10 @@
     <loc>http://localhost:1313/french/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/products/product-2/</loc>
+    <loc>http://localhost:1313/french/products/product-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/french/products/product-2/</loc>
+    <loc>http://localhost:1313/english/products/product-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/products/product-2/</loc>
