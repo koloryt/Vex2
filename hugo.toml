@@ -1,6 +1,6 @@
 ########################### Default parameters ##########################
 
-baseURL = "http://localhost:1313/"
+baseURL = "https://koloryt.github.io/Vex2/"  
 theme = "vex-hugo"
 # defaultContentLanguage = "english"
 # defaultContentLanguageInSubdir = true
