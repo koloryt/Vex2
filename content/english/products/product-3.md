@@ -1,6 +1,9 @@
 ---
-categories: ["Телефони"]
-tags: ["хіт"]
+categories:
+  - "categ2"
+
+tags: ["HIT"]
+
 title: "2222 Xiaomi Watch"
 date: 2019-10-17T11:22:16+06:00
 images: 
@@ -8,6 +11,9 @@ images:
   - "images/showcase/showcase-2.png"
   - "images/showcase/showcase-1.png"
   - "images/showcase/showcase-4.png"
+  
+type: "products" 
+  
 
 # meta description
 description : "this is meta description"

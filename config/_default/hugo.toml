@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 
-baseurl = "http://localhost:1313/"
+baseURL = "https://koloryt.github.io/Vex2/"
 
 title = "Vex | hugo landing page template"
 theme = "vex-hugo"

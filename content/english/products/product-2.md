@@ -1,6 +1,11 @@
 ---
-categories: ["Годинники"]
-tags: ["хіт", "новинка"]
+
+categories:
+  - "categ2"
+
+tags:
+  - "HIT"
+
 title: "Galaxy Watch MODERN"
 date: 2019-10-17T11:22:16+06:00
 images: 
@@ -8,6 +13,9 @@ images:
   - "images/showcase/showcase-1.png"
   - "images/showcase/showcase-3.png"
   - "images/showcase/showcase-4.png"
+  
+type: "products" 
+
 
 # meta description
 description : "this is meta description"

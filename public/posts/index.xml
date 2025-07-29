@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Vex | hugo landing page template</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://koloryt.github.io/Vex2/posts/</link>
     <description>Recent content in Posts on Vex | hugo landing page template</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2025 15:59:45 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://koloryt.github.io/Vex2/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello 3333333</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <link>https://koloryt.github.io/Vex2/posts/hello/</link>
       <pubDate>Mon, 28 Jul 2025 15:59:45 +0300</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>https://koloryt.github.io/Vex2/posts/hello/</guid>
       <description></description>
     </item>
   </channel>

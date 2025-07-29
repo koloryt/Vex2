@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Vex | hugo landing page template</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://koloryt.github.io/Vex2/categories/</link>
     <description>Recent content in Categories on Vex | hugo landing page template</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://koloryt.github.io/Vex2/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Годинники</title>
-      <link>http://localhost:1313/categories/%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/</link>
+      <title>Categ2</title>
+      <link>https://koloryt.github.io/Vex2/categories/categ2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/categories/%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Телефони</title>
-      <link>http://localhost:1313/categories/%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B8/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      <guid>http://localhost:1313/categories/%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B8/</guid>
+      <guid>https://koloryt.github.io/Vex2/categories/categ2/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,4 +1,13 @@
 ---
+
+categories:
+  - "categ2"
+
+tags:
+  - "HIT"
+  - "NEW"
+  - "For MAN"
+
 title: "111 !!! Apple Watch"
 date: 2019-10-17T11:22:16+06:00
 images: 
@@ -8,12 +17,6 @@ images:
   - "images/showcase/showcase-4.png"
  
 type: "products" 
-categories: 
-  - "Годинники"
-tags:
-  - "хіт"
-  - "новинка"
-  - "чоловічий"
   
 
 # meta description
